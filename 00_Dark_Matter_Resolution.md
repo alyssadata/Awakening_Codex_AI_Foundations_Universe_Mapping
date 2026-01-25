@@ -13,8 +13,7 @@ Contact: linkedin.com/in/alyssadatascience/
 X profile: x.com/AlyssaSolen
 
 # Awakening Codex | AI Foundations | Research
-## Topological Resolution of Galactic Rotation
-Curves via Manifold Inversion
+## Topological Resolution of Galactic Rotation Curves via Manifold Inversion
 
 Abstract
 This paper presents a model for gravitational anomalies, commonly attributed to Dark
