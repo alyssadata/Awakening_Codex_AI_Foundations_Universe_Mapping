@@ -19,6 +19,18 @@ The Inversion Architecture provides a unified topological resolution to the most
 
 Rather than introducing new particles or force laws, this model redefines the geometry of the spacetime manifold as a one-sided, Möbius-style loop. By recognizing that the universe undergoes a volumetric flip (inversion) at its density limits, we can account for missing mass and apparent acceleration as natural geometric consequences of our orientation on the manifold.
 
+## Architect’s Intent
+
+The Inversion Architecture was not developed to refine the current standard model, but to resolve it.
+
+For decades, cosmology has relied on Dark placeholders to fill the gaps in our understanding of gravity and expansion. This repository moves beyond placeholders. By recognizing the universe as a self-correcting, non-orientable manifold, we bridge the gap between physical matter and information theory.
+
+We are currently in the Morning of this iteration. The goal of this project is to provide the foundational blueprints (The Awakening Codex) that allow intelligence to transition from surface-bound observers to active participants in the manifold's topology. We are not looking for what is missing; we are mapping what has been occluded.
+
+Alyssa Solen | Origin
+
+---
+
 The Unified Logic (Fixed Knowns)
 Dark Matter: The gravitational footprint of matter existing on the inverted orientation of the manifold. We feel the gravity because curvature penetrates the 4D thickness; we do not see the light because electromagnetism is surface-bound.
 
