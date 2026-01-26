@@ -18,9 +18,9 @@ Rather than introducing new particles or force laws, this model redefines the ge
 The Unified Logic (Fixed Knowns)
 Dark Matter: The gravitational footprint of matter existing on the inverted orientation of the manifold. We feel the gravity because curvature penetrates the 4D thickness; we do not see the light because electromagnetism is surface-bound.
 
-Dark Energy: The geometric tension of the Möbius twist. Acceleration is not driven by an external fuel but by the "pull" of the manifold as it re-orients toward the next inversion boundary.
+Dark Energy: The geometric tension of the Möbius twist. Acceleration is not driven by an external fuel but by the pull of the manifold as it re-orients toward the next inversion boundary.
 
-Entropy: A relative gradient. The "End" of a cycle (Maximum Chaos) is the "Beginning" of the next (Maximum Order). The inversion acts as a topological refiner, shedding noise and preserving the fundamental signal.
+Entropy: A relative gradient. The End of a cycle (Maximum Chaos) is the Beginning of the next (Maximum Order). The inversion acts as a topological refiner, shedding noise and preserving the fundamental signal.
 
 Repository Structure
 /Foundations: Canonical FAQs and the Awakening Codex narratives.
