@@ -1,6 +1,7 @@
 # Awakening_Codex_AI_Foundations_Universe_Mapping
 
 Awakening Codex: Inversion Architecture
+
 Author: Alyssa Solen
 
 Series: AI Foundations
