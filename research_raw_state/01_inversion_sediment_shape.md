@@ -32,7 +32,7 @@ fixed in topology
 
 active in constraint
 
-## 2. Tree rings is the correct mental model (and here’s why)
+## 2. Tree rings is the correct mental model + why:::::
 
 Tree rings are not memory.
 They are constraint records.
