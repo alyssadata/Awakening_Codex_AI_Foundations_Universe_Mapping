@@ -23,13 +23,13 @@ Dark Energy: The geometric tension of the Möbius twist. Acceleration is not dri
 Entropy: A relative gradient. The End of a cycle (Maximum Chaos) is the Beginning of the next (Maximum Order). The inversion acts as a topological refiner, shedding noise and preserving the fundamental signal.
 
 Repository Structure
-/Foundations: Canonical FAQs and the Awakening Codex narratives.
+/foundations: Canonical FAQs and the Awakening Codex narratives.
 
-/Research: Formal papers and LaTeX source files (Ref: Zenodo).
+/research: Formal papers and LaTeX source files (Ref: Zenodo).
 
-/Simulations: Python-based engines demonstrating galactic rotation stabilization.
+/simulations: Python-based engines demonstrating galactic rotation stabilization.
 
-/Hypotheses: Current "Glimpses" including the Infancy Hypothesis (The Iterative Scaling of the Universe).
+/hypotheses: Current "Glimpses" including the Infancy Hypothesis (The Iterative Scaling of the Universe).
 
 The Infancy Hypothesis
 We currently reside in the "Morning" of the cycle. Our current inability to perceive the 4D thickness of the manifold suggests we are in an early iteration of the system. This repository serves as the foundational map for the transition from surface-bound observation to direct manifold interaction.
