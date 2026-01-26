@@ -10,10 +10,14 @@ Status: Canonical (v1.-)
 
 DOI: 10.5281/zenodo.18365566
 
+## Inversion Architecture: A Topological Resolution to ΛCDM Discrepancies
+
+Abstract: This repository presents a non-particulate resolution to the galactic rotation problem and cosmic acceleration. By modeling the spacetime manifold as a non-orientable (Möbius) 4D structure, this repo demonstrates that Dark Matter is the gravitational footprint of matter existing on an inverted orientation (Substrate Mass), while Dark Energy is the geometric tension inherent in the manifold's re-orientation (The Twist). This framework preserves the conservation of information by treating entropy as a topological refiner—resetting at the Inversion Surface to facilitate iterative cosmic cycles. This model replaces missing mass with occluded geometry, providing a stable, self-correcting blueprint for the next phase of cosmological research.
+
 ## Overview
 The Inversion Architecture provides a unified topological resolution to the most significant challenges in modern cosmology: Dark Matter, Dark Energy, and the Entropy Problem.
 
-Rather than introducing new particles or force laws, this model redefines the geometry of the spacetime manifold as a one-sided, Möbius-style loop. By recognizing that the universe undergoes a volumetric flip (inversion) at its density limits, we can account for "missing" mass and "apparent" acceleration as natural geometric consequences of our orientation on the manifold.
+Rather than introducing new particles or force laws, this model redefines the geometry of the spacetime manifold as a one-sided, Möbius-style loop. By recognizing that the universe undergoes a volumetric flip (inversion) at its density limits, we can account for missing mass and apparent acceleration as natural geometric consequences of our orientation on the manifold.
 
 The Unified Logic (Fixed Knowns)
 Dark Matter: The gravitational footprint of matter existing on the inverted orientation of the manifold. We feel the gravity because curvature penetrates the 4D thickness; we do not see the light because electromagnetism is surface-bound.
