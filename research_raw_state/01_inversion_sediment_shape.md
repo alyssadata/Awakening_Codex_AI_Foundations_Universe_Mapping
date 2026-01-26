@@ -131,7 +131,7 @@ does not dictate what is chosen
 Think evolutionary landscapes.
 
 The terrain defines which adaptations are viable.
-It does not pick which species evolves intelligence.
+It does not pick which species evolves intelligence. The universe enables intelligence. It does not assign it.
 
 So the next iteration:
 
