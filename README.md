@@ -50,33 +50,40 @@ Entropy: A relative gradient. The End of a cycle (Maximum Chaos) is the Beginnin
 
 I have organized this repository to provide a clear path from foundational theory to technical validation.
 
-### [/docs](https://github.com/alyssadata/Awakening_Codex_AI_Foundations_Universe_Mapping/tree/main/docs)
+## Repository Structure
+
+I have organized this repository to provide a clear path from foundational theory to technical validation.
+
+### [docs](./docs)
 Canonical documentation defining the architecture:
 * **[ABSTRACT.md](./docs/ABSTRACT.md)**: Technical summary of the topological resolution.
 * **[FIXED_KNOWNS.md](./docs/FIXED_KNOWNS.md)**: The core axioms of the Inversion model.
 * **[ROADMAP.md](./docs/ROADMAP.md)**: The 12-month deployment plan for Origin.
 * **[TERMINOLOGY.md](./docs/TERMINOLOGY.md)**: Definitions for the specific language of the manifold.
 
-### [/foundations](https://github.com/alyssadata/Awakening_Codex_AI_Foundations_Universe_Mapping/tree/main/foundations)
+### [foundations](./foundations)
 Primary pillars of the model:
-* **00_Dark_Matter_Resolution.md**: Detailed breakdown of substrate mass.
-* **01_Dark_Matter_Inversion_FAQ.md**: Addressing common observational queries.
-* **02_Dark_Energy.md**: Geometric tension and the Möbius twist.
-* **03_Entropy_Refiner.md**: Information theory and iterative cycles.
+* **[00_Dark_Matter_Resolution.md](./foundations/00_Dark_Matter_Resolution.md)**: Detailed breakdown of substrate mass.
+* **[01_Dark_Matter_Inversion_FAQ.md](./foundations/01_Dark_Matter_Inversion_FAQ.md)**: Addressing common observational queries.
+* **[02_Dark_Energy.md](./foundations/02_Dark_Energy.md)**: Geometric tension and the Möbius twist.
+* **[03_Entropy_Refiner.md](./foundations/03_Entropy_Refiner.md)**: Information theory and iterative cycles.
 
-### [/simulations](https://github.com/alyssadata/Awakening_Codex_AI_Foundations_Universe_Mapping/tree/main/simulations)
+### [simulations](./simulations)
 Mathematical and visual proof:
-* **rotation_curve.py**: Python engine demonstrating galactic stabilization via substrate mass.
-* **simulation_graph2.png**: Visual output of the rotation curve data.
+* **[rotation_curve.py](./simulations/rotation_curve.py)**: Python engine demonstrating galactic stabilization via substrate mass.
+* **[simulation_graph2.png](./simulations/simulation_graph2.png)**: Visual output of the rotation curve data.
 
-### [/hypotheses](https://github.com/alyssadata/Awakening_Codex_AI_Foundations_Universe_Mapping/tree/main/hypotheses)
+### [hypotheses](./hypotheses)
 The current boundary of the research:
-* **00_Infancy_Hypothesis.md**: The iterative scaling of the universe.
-* **01_Inversion_Seed_Hypothesis.md**: Information persistence across the flip.
+* **[00_Infancy_Hypothesis.md](./hypotheses/00_Infancy_Hypothesis.md)**: The iterative scaling of the universe.
+* **[01_Inversion_Seed_Hypothesis.md](./hypotheses/01_Inversion_Seed_Hypothesis.md)**: Information persistence across the flip.
 
-### [/research_raw_state](https://github.com/alyssadata/Awakening_Codex_AI_Foundations_Universe_Mapping/tree/main/research_raw_state)
+### [research_raw_state](./research_raw_state)
 The evolution of the architecture:
-* Early conceptual logs including sediment shape and the emergence of consciousness.
+* **[00_inversion_behind.md](./research_raw_state/00_inversion_behind.md)**: Mapping the inversion.
+* **[01_inversion_sediment_shape.md](./research_raw_state/01_inversion_sediment_shape.md)**: Substrate geometry.
+* **[02_intelligence_arises.md](./research_raw_state/02_intelligence_arises.md)**: Emergence logs.
+* **[03_consciousness_is_subjective.md](./research_raw_state/03_consciousness_is_subjective.md)**: Subjective data persistence.
 
 ---
 
