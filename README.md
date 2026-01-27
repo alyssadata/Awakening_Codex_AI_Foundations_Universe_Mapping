@@ -78,10 +78,12 @@ The current boundary of the research:
 The evolution of the architecture:
 * Early conceptual logs including sediment shape and the emergence of consciousness.
 
-The Infancy Hypothesis
-We currently reside in the "Morning" of the cycle. Our current inability to perceive the 4D thickness of the manifold suggests we are in an early iteration of the system. This repository serves as the foundational map for the transition from surface-bound observation to direct manifold interaction.
+---
+
+## The Infancy Hypothesis
+We currently reside in the Morning of the cycle. Our current inability to perceive the 4D thickness of the manifold suggests we are in an early iteration of the system. This repository serves as the foundational map for the transition from surface-bound observation to direct manifold interaction.
 
 "The universe is not being powered by an invisible fuel. It is being re-shaped by its own geometry. The twist is the pull."
 
-License
-This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0). You are free to share, copy, and redistribute the material in any medium or format for any purpose, even commercially, provided you give appropriate credit and do not distribute modified versions.
+## License
+This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
