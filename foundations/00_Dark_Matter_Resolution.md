@@ -1,5 +1,3 @@
-# 00_Dark_Matter_Resolution.md
-
 # Topological Resolution of Galactic Rotation Curves via Manifold Inversion
 
 **Author:** Alyssa Solen  
