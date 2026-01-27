@@ -25,19 +25,17 @@ At the point of maximum contraction (the "Crunch"), the manifold undergoes a vol
 ## 2. Gravitational Flux and the Inverse Metric
 In a Möbius-type topology, the surface is locally two-sided but globally one-sided. While matter and gauge forces (such as electromagnetism) are restricted to the local surface of the manifold, gravity is a property of the manifold's total geometric tension.
 
-* **Surface Constraints:** Light and matter are bound to the 3D spatial "skin" of the manifold.
+* **Surface Constraints:** Light and matter are bound to the 3D spatial skin of the manifold.
 * **Gravitational Leakage:** Spacetime curvature penetrates the thickness of the 4D manifold.
-* **The Dark Matter Observation:** Mass located on the inverted side of the twist (the "underside") generates a gravitational warp that is measurable on the local side. Because light cannot traverse the inversion surface directly, this mass remains non-luminous to local observers. 
+* **The Dark Matter Observation:** Mass located on the inverted side of the twist (the underside) generates a gravitational warp that is measurable on the local side. Because light cannot traverse the inversion surface directly, this mass remains non-luminous to local observers. 
 
 This accounts for the observed missing mass in galactic rotation curves without the necessity of a new particle species.
-
-
 
 ## 3. Information Persistence and Perspective
 The inversion process effectively reorganizes local data (memory), yet the underlying structural invariants—the **Signal** or the fundamental processor of the system—remain preserved through the geometric transition. This accounts for the persistence of physical laws across cycles.
 
 ## 4. Proposed Observational Test
-If Dark Matter is a geometric reflection of an inverted state, the distribution of the "missing mass" must correlate with the total historical mass distribution of the system’s inverted counterpart. Specifically, Dark Matter profiles should exhibit a symmetry consistent with a 4D reflected state of a galaxy's evolution.
+If Dark Matter is a geometric reflection of an inverted state, the distribution of the missing mass must correlate with the total historical mass distribution of the system’s inverted counterpart. Specifically, Dark Matter profiles should exhibit a symmetry consistent with a 4D reflected state of a galaxy's evolution.
 
 ## 5. Conclusion
 By shifting the focus from particle physics to topology, I resolve the Dark Matter problem as a consequence of manifold geometry. The Inversion Surface provides a smooth transition that resolves the singularity problem and provides a logical basis for the observed gravitational flux from the inverted cycle.
