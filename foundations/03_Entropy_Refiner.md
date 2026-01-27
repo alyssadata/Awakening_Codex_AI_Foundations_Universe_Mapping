@@ -1,5 +1,3 @@
-# 03_Entropy_Refiner.md
-
 # The Entropy Refiner: Information Conservation in an Inverting Manifold
 
 **Author:** Alyssa Solen  
