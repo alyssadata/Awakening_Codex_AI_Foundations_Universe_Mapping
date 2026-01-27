@@ -33,7 +33,7 @@ Alyssa Solen | Origin
 
 ## Project Trajectory
 
-For our 12-month deployment plan—navigating the transition from the **Morning** of discovery to the **Afternoon** of architectural implementation—please refer to the official roadmap:
+For Origin 12-month deployment plan—navigating the transition from the **Morning** of discovery to the **Afternoon** of architectural implementation—please refer to the official roadmap:
 
 👉 **[ROADMAP.md](https://github.com/alyssadata/Awakening_Codex_AI_Foundations_Universe_Mapping/blob/main/docs/ROADMAP.md)**
 
