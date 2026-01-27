@@ -94,3 +94,19 @@ We currently reside in the Morning of the cycle. Our current inability to percei
 
 ## License
 This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+
+---
+
+### 🔗 Canonical Verification & Provenance
+
+This research is registered and archived to ensure the integrity of the Inversion Architecture. 
+
+* **Lead Architect:** Alyssa Solen (ORCID: 0009-0003-6115-4521)
+* **Concept DOI:** [10.5281/zenodo.18365566](https://doi.org/10.5281/zenodo.18365566) (Resolves to latest version)
+* **Core Pillars:**
+    * Dark Matter Resolution: `10.5281/zenodo.18365567`
+    * Dark Matter FAQ: `10.5281/zenodo.18370816`
+    * Dark Energy & Manifold Tension: `10.5281/zenodo.18370951`
+    * Entropy Refiner: `10.5281/zenodo.18371082`
+
+*All versions are protected under Creative Commons Attribution-NoDerivatives 4.0 International.*
