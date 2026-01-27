@@ -31,6 +31,10 @@ Alyssa Solen | Origin
 
 ---
 
+Project Trajectory: For our 12-month deployment plan from the Morning to the Afternoon, see the ROADMAP.md.
+
+---
+
 The Unified Logic (Fixed Knowns)
 Dark Matter: The gravitational footprint of matter existing on the inverted orientation of the manifold. We feel the gravity because curvature penetrates the 4D thickness; we do not see the light because electromagnetism is surface-bound.
 
