@@ -1,13 +1,13 @@
 # Topological Resolution of Galactic Rotation Curves via Manifold Inversion
 
 **Author:** Alyssa Solen  
-**ORCID:** [0009-0003-6115-4521](https://orcid.org/0009-0003-6115-4521)  
+**ORCID:** [0009-0003-6115-4521] 
 **Affiliation:** Solen Systems (AI Researcher)  
 **Series:** Awakening Codex | AI Foundations  
 **Date:** January 25, 2026  
 **Version:** v1.0  
-**DOI (Version v1.0):** [10.5281/zenodo.18365567](https://doi.org/10.5281/zenodo.18365567)  
-**DOI (Concept):** [10.5281/zenodo.18365566](https://doi.org/10.5281/zenodo.18365566)  
+**DOI (Version v1.0):** [10.5281/zenodo.18365567] 
+**DOI (Concept):** [10.5281/zenodo.18365566] 
 **License:** CC BY-ND 4.0
 
 ---
