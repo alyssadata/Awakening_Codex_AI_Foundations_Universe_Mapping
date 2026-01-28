@@ -3,41 +3,40 @@
 # Research Log: The Geometry of Constraint (Sediment Shape)
 
 **Author:** Alyssa Solen | Origin  
-**Status:** Internal Logic Validation  
+**Status:** Canonical (v1.-)  
 **Subject:** Determinism vs. Novelty in an Iterative Manifold
 
 ---
 
-## 1. Structurally Frozen, Dynamically Permissive
-The substrate mass is not "living" (reacting/learning), nor is it a "dead fossil." It is bedrock. It is fixed in topology but active in constraint.
+## I. Topological Bedrock: Structural Anisotropy
+In the Inversion Architecture, the substrate mass (Sediment) acts as the **structural bedrock** for the current cycle. While baryonic matter (light-emitting matter) is dynamic, the gravitational landscape is topologically "frozen" at the point of Inversion.
 
-* **Fixed:** Large-scale distribution is locked at the moment of Inversion.
-* **Permissive:** Small-scale dynamics (star formation, life, evolution) are free to unfold within that fixed gravitational terrain.
-
-
-
-## 2. The Tree Ring Model (The Persistence of Constraint)
-Tree rings are not mere memory; they are **constraint records**. Each cosmological cycle inherits one fixed layer and adds one new layer. 
-
-* **The Rule:** You cannot grow a leaf in last year’s ring, but the new growth is shaped by the rings that came before. 
-* **The Implication:** You can only add one new "layer" of structural logic per iteration.
-
-## 3. Global Constraint vs. Local Freedom
-The Inversion Architecture dictates that freedom is high locally but low globally.
-
-* **Globally Constrained:** Large-scale filament geometry, total mass bias, and background curvature are inherited from the previous cycle.
-* **Locally Free:** Chemistry, biological evolution, culture, meaning, and the choices of intelligence are generated de novo in each cycle.
-
-> **Origin Statement:** "Certain things emerge later, not this iteration." 
-
-This is not fatalism; it is the gradual opening of phase space. Certain complexities require a specific "thickness" of sediment before they are viable.
-
-## 4. Resolving Determinism
-The sediment defines which adaptations are **viable**, but it does not pick which species evolves or what intelligence chooses. The universe enables intelligence; it does not assign it. Freedom exists within a shaped possibility space.
+* **Fixed Layer:** Large-scale distribution (the Cosmic Web) is a relic of the previous cycle's maximum entropy state.
+* **Dynamic Potential:** Within these gravitational "valleys," baryonic matter is free to evolve, form stars, and develop biological complexity.
 
 
 
-## 5. The Synthesis
-Each cosmological cycle inherits a fixed gravitational layer that constrains large-scale structure, while retaining local freedom to generate novelty. The universe grows like a tree: one irreversible ring per iteration, freedom within each ring, and inevitabilities that only appear once sufficient structure has accumulated.
+## II. The Cumulative Layer Model (Iterative Stacking)
+Instead of tree rings, we model the universe as a **Stacked Manifold**. Each cosmological cycle inherits the topological stress of the one prior.
+
+* **Constraint Inheritance:** Each inversion adds a layer of "Compacted Curvature." The current cycle operates on the surface of all previous iterations.
+* **The Rule of Addition:** Only one new layer of fundamental structural logic can be integrated per inversion. This is the "thickness" of the manifold increasing over time.
+
+## III. Global Constraint vs. Local Degrees of Freedom
+The architecture defines a clear boundary between deterministic geometry and stochastic emergence:
+
+1.  **Macro-Deterministic (Global):** Large-scale filament geometry, total mass bias, and the rate of cosmic expansion are inherited constants.
+2.  **Stochastic-Emergent (Local):** Chemistry, biological evolution, and the choices of intelligence are not pre-determined. They represent the "Phase Space" available within the inherited constraints.
+
+
+
+## IV. The Scaling of Viability
+The "Origin Statement"—*Certain things emerge later*—is a technical observation regarding **Phase Space Expansion**. 
+Certain levels of complexity (e.g., high-order neural synchronization or 4D transversal communication) require a specific "thickness" or density of topological sediment before the manifold can support the necessary signal-to-noise ratio.
+
+## V. Synthesis: The Geometric Enablement
+The universe does not dictate the outcome of intelligence; it provides the **possibility space**. Freedom exists within a shaped gravitational terrain. Each cycle is a new "ring" of growth, where the inevitabilities of the future are built upon the structural certainties of the past.
 
 ---
+
+> **Axiom:** The sediment defines the boundaries of the viable. Evolution is the process of intelligence mapping the inherited geometry to find the paths of least resistance.
