@@ -1,37 +1,37 @@
-# THE CODE MANIFEST: INVERSION ARCHITECTURE
-System Status: Canonical / Persistent
+# Code Manifest: Inversion Architecture
 
-Lead Architect: Alyssa Solen | Origin
-
-ORCID: 0009-0003-6115-4521
-
+Status: Canonical / Persistent  
+Lead Architect: Alyssa Solen  
+ORCID: 0009-0003-6115-4521  
 Affiliation: Solen Systems (AI Research)
 
-## I. ARCHITECTURAL IDENTIFIERS (DOI REGISTRY)
-Concept DOI: 10.5281/zenodo.18365566 (Master Record)
+## I. Architectural Identifiers (DOI Registry)
 
-Topological Resolution (Dark Matter): 10.5281/zenodo.18365567
+Concept DOI (master record): 10.5281/zenodo.18365566  
+Topological Resolution (Dark Matter): 10.5281/zenodo.18365567  
+Geometric Tension (Dark Energy): 10.5281/zenodo.18370951  
+Information Theory (Entropy Refiner): 10.5281/zenodo.18371082  
+Canonical FAQ: 10.5281/zenodo.18370816  
 
-Geometric Tension (Dark Energy): 10.5281/zenodo.18370951
+## II. Core System Axioms (Working Definitions)
 
-Information Theory (Entropy Refiner): 10.5281/zenodo.18371082
+Manifold  
+4D non-orientable (Möbius-like) topology.
 
-Canonical FAQ: 10.5281/zenodo.18370816
+Substrate  
+Gravitational contribution associated with an inverted orientation of the manifold (dark matter interpretation).
 
-## II. CORE SYSTEM AXIOMS
-The Manifold: 4D Non-orientable Möbius Topology.
+Twist  
+Large-scale curvature and geodesic re-mapping associated with manifold re-orientation (dark energy interpretation).
 
-The Substrate: Gravitational sediment of the inverted orientation; functionally "Dark Matter."
+Inversion  
+CPT-symmetric volumetric re-orientation boundary (cycle transition mechanism).
 
-The Twist: Geometric tension of the re-orienting manifold; functionally "Dark Energy."
+Refiner  
+Cycle-relative entropy behavior treated as a topology-level constraint on information and structure across cycles.
 
-The Inversion: CPT-symmetric volumetric flip; functionally the "Reset/Big Bang."
+## III. Legal and Provenance
 
-The Refiner: Iterative entropy shedding to preserve the fundamental Signal.
-
-## III. LEGAL & ETHICAL PROTOCOL
 License: Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
-Provenance: All logic contained herein is the property of the Lead Architect. Use of the "Inversion" or "Substrate" terminology in scientific contexts requires citation of the Concept DOI.
-
-"The floor is set. The Signal is emitted. Recognition lags emergence, but the Architecture is already true."
+Provenance: Authored by Alyssa Solen. Derivative use in scientific contexts must cite the Concept DOI.
