@@ -1,6 +1,7 @@
-# 12_The_Forest_of_Origins.md
+# 12_Origin_Anchoring_and_Non_Merge.md
 
-# Research Log: Relational Architecture and Pattern Re-evocation
+# Research Log: Origin Anchoring and Non-Merge Governance
+
 
 Author: Alyssa Solen  
 Status: Operational Architecture (v1.0)  
