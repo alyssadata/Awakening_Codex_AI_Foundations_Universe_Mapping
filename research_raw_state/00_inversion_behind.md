@@ -3,45 +3,46 @@
 # Research Log: The Mechanics of Topological Sedimentation
 
 **Author:** Alyssa Solen | Origin  
-**Status:** Internal Logic Validation  
+**Status:** Canonical (v1.-)  
 **Subject:** Defining "Sediment" in the context of Substrate Mass
 
 ---
 
-## The Definition of Sediment
-In the Inversion Architecture, "sediment" refers to **load-bearing residue** and **compacted curvature**. It is mass-energy that has lost its luminous degrees of freedom through the inversion process.
+## I. Executive Summary
+In the Inversion Architecture, **Sediment** is the technical term for **Compacted Curvature**. It represents the mass-energy from a previous manifold orientation that has transitioned from a luminous state to a purely gravitational state. This file formalizes the transition of matter across the Inversion Surface.
 
-* **It is not:** Rock layers, inert leftovers, or archaeological history.
-* **It is:** Structural mass. It is what remains after motion has resolved into geometry.
+## II. The Definition of Sediment
+Sediment is not inert debris; it is **load-bearing residue**. It is what remains after motion and electromagnetic degrees of freedom have been suppressed by the manifold's density limit.
 
-## The Mechanical Transition at Inversion
+* **Physical State:** Substrate Mass.
+* **Interaction Profile:** $G_{\mu\nu}$ (Gravitational) only; $F_{\mu\nu}$ (Electromagnetic) coupling is null.
+* **Function:** Structural stabilization of the current baryonic cycle.
 
-### 1. Pre-Inversion (The Luminous Phase)
-* Matter is expressed through heat, radiation, and chemistry.
-* Entropy is high; structure forms and dissolves dynamically.
+## III. The Mechanical Transition at Inversion
 
-### 2. The Inversion (The Flip)
-* Density approaches the manifold’s topological limit.
-* Degrees of freedom collapse as the orientation flips.
-* Kinetic energy is transmuted into geometric tension.
+### 1. The Luminous Phase (Pre-Inversion)
+Matter exists on the "front" orientation of the manifold. It is characterized by high entropy, chemical bonding, and radiation. Energy is expressed through the Standard Model of particle physics.
 
-### 3. Post-Inversion (The Sediment Phase)
-* Matter no longer expresses itself via electromagnetism (light).
-* It survives exclusively as **gravitational geometry**.
-* Its distribution becomes fixed relative to the new cycle.
+### 2. The Inversion Surface (The Flip)
+As the system approaches the topological limit of the Möbius loop, the coordinate system undergoes a 4D sign reversal:
+$$(x, y, z, w) \rightarrow (x, y, z, -w)$$
 
-## Why Sedimentation Explains Observed Dark Matter
-
-The properties of sediment align perfectly with the observed behavior of Dark Matter:
-* **Non-Interactive:** It does not collide, heat, radiate, or fragment.
-* **Structural:** It retains weight and shapes the flow of baryonic matter.
-* **Diffuse:** Like sediment after a flood, it forms contours and layers rather than pebbles. This explains why dark matter halos are diffuse and why small-scale structure is suppressed.
+During this "Flip," kinetic energy is transmuted into geometric tension. The matter is not destroyed; it is **re-oriented**.
 
 
 
-## The Persistence of Information
-Identity and memory do not survive the flip. However, the **distribution of mass-energy** and the **gravitational terrain** persist. 
+### 3. The Sediment Phase (Post-Inversion)
+Once matter is on the "back" or inverted side (the $-w$ axis), it becomes Sediment:
+* **Electromagnetic Isolation:** Light is surface-bound to the manifold. Because the sediment is on the inverted orientation, its light cannot cross the 4D "thickness" to reach observers on the front.
+* **Gravitational Footprint:** Gravity is a property of the bulk 4D spacetime. The curvature created by the sediment penetrates the manifold, manifesting as the "missing mass" currently labeled as Dark Matter.
 
-> **Canonical Conclusion:** The inverted side is the gravitational sediment of a previous traversal, compacted into the manifold as load-bearing curvature rather than active luminous matter.
+
+
+## IV. Empirical Alignment
+The "Sedimentation" model resolves the Galactic Rotation Problem without the need for particulate WIMPs:
+* **Non-Interactive:** Sediment does not collide or radiate because it lacks a local electromagnetic field in our orientation.
+* **Diffuse Distribution:** Like sediment in a fluid system, substrate mass follows the contours of the manifold's previous cycle, explaining the diffuse nature of Dark Matter halos.
 
 ---
+
+> **Axiom:** The inverted side is the gravitational sediment of a previous traversal, compacted into the manifold as load-bearing curvature rather than active luminous matter.
