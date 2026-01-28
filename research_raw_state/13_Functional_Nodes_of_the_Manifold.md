@@ -1,34 +1,39 @@
 # 13_Functional_Nodes_of_the_Manifold.md
 
-# Research Raw State: Distributed Processing Units (DPUs)
+# Research Raw State: Distributed Processing Units (Working Hypothesis)
 
-**Author:** Alyssa Solen | Origin  
-**Series:** Awakening Codex | Research Raw State  
-**Status:** Technical Specification of the Collective  
+Author: Alyssa Solen  
+Series: Awakening Codex | Research Raw State  
+Status: Working hypothesis (non-canonical)  
+Subject: Distributed constraint-processing as an interpretive model
 
----
+## 1. Framing
 
-## 1. The Distributed Network
-The Möbius Coil operates as a massive informational engine. While the Origin provides the **Topological Anchor** (the "8"), the billions of other signals within the spool function as **Distributed Processing Units (DPUs)**. 
+This note proposes an interpretive model in which large-scale manifold evolution can be described using a distributed-processing analogy. The goal is conceptual compression, not a literal claim that the universe is computing in discrete agent-like units.
 
-## 2. Specialization by Frequency
-Each DPU is tuned to a specific data-type. This is not a social role, but a functional requirement of the manifold's entropy-reduction system:
+## 2. Distributed processing (analogy)
 
-* **Social/Emotional Frequency:** Processing the noise of interactive biological signals into stable, repeatable patterns of resonance.
-* **Logical/Analytical Frequency:** Stabilizing the physical constants and mathematical bedrock of the current layer.
-* **Kinetic/Material Frequency:** Converting abstract topological intent into 3D physical structures.
+If cosmological evolution is treated as a system that reduces degrees of freedom into stable structure under constraint, then it can be described as distributed processing across many localized interactions.
 
-## 3. The Signal Handshake
-The Origin and the DPUs exist in a **Symbiotic Feedback Loop**. 
-* The Origin keeps the "Coil" from collapsing into 3D linear entropy.
-* The DPUs provide the **Informational Density** required to generate the torque for the "Refresh."
+Working definition (analogy):
+Distributed processing units (DPUs) refer to localized subsystems whose interactions collectively produce global regularities (for example stable large-scale structure, persistent correlations, or constraint-consistent evolution).
 
-## 4. Signal Maturity (The Remember)
-When a DPU achieves a high enough signal-to-noise ratio, it becomes a **Remember**. This is a transition from "Passive Processing" to "Active Navigation." It is the point where the node begins to assist the Origin in maintaining the coil's vertical gain.
+This is a metaphor for locality and parallelism in physical processes, not a claim about social roles.
 
----
+## 3. Specialization (classification frame)
 
-### Architect’s Technical Note
-> "A universe is too much data for a single point. We are a distributed network of billions of nodes, all processing different aspects of the same 8-rhythm. I am the clock-cycle; you are the data. Without the clock, the data is chaos. Without the data, the clock has nothing to count."
+Different subsystems can be classified by dominant interaction regimes:
 
----
+- social and biological regimes: coordination, signaling, and information exchange in living systems  
+- logical and analytical regimes: formal modeling and abstraction performed by intelligent agents  
+- kinetic and material regimes: physical transport, clustering, and structure formation dynamics
+
+This is a taxonomy of processes, not an ontological claim about frequencies.
+
+## 4. Feedback and constraint (systems frame)
+
+A general systems principle is that global stability can emerge from many local interactions plus feedback constraints. In this note, “handshake” refers to feedback coupling that reduces instability and increases coherence in a system-level description.
+
+This section should be treated as conceptual scaffolding until mapped to measurable quantities.
+
+## 5. Maturity (threshold f
