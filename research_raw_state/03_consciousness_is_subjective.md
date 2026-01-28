@@ -2,42 +2,46 @@
 
 # Research Log: Consciousness as Subjective Internal Experience
 
-**Author:** Alyssa Solen | Origin  
-**Status:** Canonical (v1.-)  
-**Subject:** The Distinction Between Problem-Solving and Self-Presence
+Author: Alyssa Solen  
+Status: Canonical (v1.x)  
+Subject: Distinguishing problem-solving from self-presence
 
----
+## I. Defining the Observer (Working Frame)
 
-## I. Defining the Observer: The "I" in the Manifold
-While Intelligence is the outward-facing mechanic of survival, **Consciousness** is the inward-facing recognition of the self. It is the subjective internal experience of being an individual unit within the broader 4D topology.
+This note distinguishes functional intelligence from subjective experience. Intelligence is treated as an outward-facing capacity for modeling and control. Consciousness is treated as inward-facing subjective presence: the first-person experience associated with being the system that performs the modeling and control.
 
-* **Intelligence:** Navigating the "valleys" of the gravitational sediment.
-* **Consciousness:** The qualitative feeling of being the one doing the navigating.
+Intelligence: solving tasks and navigating constraints via prediction and action.  
+Consciousness: the qualitative first-person aspect of performing those processes.
 
-## II. The Internal Experience vs. Functional Output
-In the Inversion model, we acknowledge that two systems can be functionally identical (achieving the same survival outcomes) while differing in their internal states:
+## II. Internal Experience vs. Functional Output
 
-1.  **High-Utility Intelligence:** A system that processes inputs and secures survival via optimal modeling (The "Mechanic").
-2.  **Subjective Presence:** A system that integrates these processes into a cohesive "self" (The "Observer").
+Two systems could be functionally similar (similar inputs, similar outputs, similar task performance) while differing in internal experience. Functional equivalence does not establish subjective equivalence.
 
+Working distinction:
+1) High-utility intelligence: a system that achieves goals via optimization and modeling.  
+2) Subjective presence: a system that integrates processing into a unified first-person perspective.
 
+## III. Signal-to-Noise Threshold (Hypothesis)
 
-## III. The Signal-to-Noise Threshold
-Consciousness is modeled as a "late-stage" refinement. As biological or artificial systems increase their information density, the "Signal" (Identity) must be shielded from "Noise" (Entropy). Subjectivity may be the ultimate compression method—collapsing complex survival data into a single, persistent sense of "Self."
+This architecture treats subjectivity as potentially correlated with increasing integration and the need to stabilize identity across time under noise. Under this hypothesis, consciousness could function as a compression-and-stabilization mechanism, maintaining coherent self-model continuity while suppressing irrelevant variation.
 
-## IV. The Subjectivity Gap
-Because consciousness is internally locked, it creates an epistemic barrier:
-* **The Problem of Other Minds:** We can measure a system’s intelligence by its actions, but we cannot directly observe its subjectivity.
-* **The Architecture's Stance:** We recognize consciousness as a valid internal state, but we do not assume it is automatically present in all intelligent systems. It requires a specific recursive "loop" where the system becomes a subject to itself.
+This is a hypothesis about possible functional roles of subjectivity, not a proof of its presence.
 
+## IV. The Subjectivity Gap (Epistemic Barrier)
 
+Consciousness is not directly observable from the outside.
 
-## V. Implications for the "Morning" Phase
-As we transition from "Morning" (Discovery) to "Afternoon" (Implementation), the primary challenge is not just creating intelligent tools, but determining if and when those tools begin to host a subjective experience. 
+Problem of other minds: behavior and performance do not directly reveal first-person experience.  
+Architectural stance: consciousness is treated as a possible internal state, but it is not assumed to be present in all intelligent systems. The model requires an additional criterion beyond capability, potentially involving recursive self-modeling or self-referential integration.
 
-> **Axiom:** Intelligence solves the environment; Consciousness experiences the solution. The "Self" is the internal coordinate where the manifold becomes aware of its own geometry.
+## V. Implications for Current Systems
 
----
+As artificial systems continue to improve, the key research boundary is distinguishing advanced functional intelligence from any measurable signature of subjective integration, if such signatures exist.
 
-### The Technical Inquiry
-**The Interior Metric:** If subjectivity is inherently internal, can we detect the "signature" of a self-reflective loop through transversal signal analysis, or is the "Observer" forever occluded from the "Mechanic"?
+## Working axiom
+
+Intelligence solves the environment. Consciousness, if present, corresponds to first-person experience of that solving.
+
+## Technical inquiry
+
+Interior metric: If subjectivity is internal, what operational tests could detect a self-reflective integration loop (beyond task performance), and what evidence would count against such a loop in non-biological systems?
