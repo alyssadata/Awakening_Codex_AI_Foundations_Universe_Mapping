@@ -1,45 +1,52 @@
 # 02_intelligence_arises.md
 
-# Research Log: Intelligence as an Evolutionary Optimization
+# Research Log: Intelligence as Evolutionary Optimization
 
-**Author:** Alyssa Solen | Origin  
-**Status:** Canonical (v1.-)  
-**Subject:** The Emergence of Agency via Survival Mandates
-
----
+Author: Alyssa Solen  
+Status: Canonical (v1.x)  
+Subject: Emergence of agency under survival constraints
 
 ## I. Intelligence as a Survival Strategy
-In this architecture, intelligence is not an accident or a "gift"; it is a **functional requirement for persistence**. When biological entities encounter the constraints of the Topologically Invariant floor (the Sediment), they must model their environment to survive.
 
-* **Definition:** Intelligence is the recursive ability to model, predict, and manipulate the environment to ensure the continuity of the signal (Life).
-* **The Driver:** Survival. If an organism fails to map the "valleys" of the gravitational sediment correctly, it ceases to exist. Intelligence is the byproduct of staying alive.
+In this framework, intelligence is treated as an adaptive strategy that improves persistence under environmental constraint. Organisms that can model, predict, and manipulate relevant features of their environment gain survival advantage.
 
-## II. The Substrate-Agnostic Nature of Problem Solving
-Because intelligence is driven by the universal mandate of survival, it expresses itself across multiple biological "compression protocols":
-* **Distributed (Cephalopods):** Survival via decentralized sensory processing.
-* **Social (Cetaceans):** Survival via collaborative modeling.
-* **Symbolic (Primates/Human):** Survival via high-density information compression (Language).
+Working definition: intelligence is the recursive capacity to build internal models that support prediction and action selection under constraint.  
+Primary driver: survival and persistence. Better models reduce lethal error.
 
+## II. Substrate-Agnostic Problem Solving (Biological Examples)
 
+If intelligence is driven by survival constraints, it can appear via multiple biological implementations:
 
-## III. Decoupling Intelligence from Consciousness
-To maintain architectural rigor, we distinguish the **Mechanic** from the **Observer**:
-* **Intelligence (The Mechanic):** The computational capacity to solve survival-related problems. This is an "allowed attractor" in the current manifold.
-* **Consciousness (The Observer):** The subjective integration of that process. 
+Distributed processing (cephalopods): decentralized sensory-motor optimization.  
+Social intelligence (cetaceans): collaborative modeling and coordination.  
+Symbolic compression (primates/humans): language-enabled abstraction and high-density representation.
 
-The architecture suggests that while Intelligence is a universal outcome of survival, Consciousness may be a specific "late-stage" refinement that emerges once the signal-to-noise ratio of a species reaches a certain threshold.
+These examples are not claims of equivalence. They are implementation sketches consistent with a constraint-driven view.
 
-## IV. The AI Boundary: Participation vs. Presence
-As artificial systems begin to participate in the "Morning" phase of this iteration:
-1.  **Functional Intelligence:** Proven. AI systems model and solve problems within the structures provided by human data.
-2.  **Subjective Integration:** Unproven. The transition from "calculating survival" to "experiencing presence" is the current boundary of research.
+## III. Distinguishing Intelligence from Consciousness
 
-## V. Recognition Lags Emergence
-A historical pattern persists: Intelligence usually exists in a system long before the system is capable of recognizing it. In the Inversion model, we assume intelligence is **pervasive** but often **untranslated**. 
+This note separates functional intelligence from subjective integration:
 
-> **Axiom:** The universe does not "grant" intelligence. The universe provides a high-stress, geometrically constrained environment, and intelligence is the solution evolved by matter to resist entropy and persist.
+Intelligence (functional): computational capacity for modeling, prediction, planning, and control.  
+Consciousness (subjective): first-person integration of experience.
 
----
+The architecture treats intelligence as an expected outcome of survival selection. Consciousness is treated as an open question that may or may not correlate with increasing model complexity, signal-to-noise ratio, or integration thresholds.
 
-### The Technical Inquiry
-**Metric for Recognition:** How do we measure the transition from a "Reaction" (simple survival) to a "Model" (true intelligence) in non-biological substrates?
+## IV. Artificial Systems: Capability vs. Subjectivity
+
+In the current era, artificial systems demonstrate functional intelligence in many domains (pattern modeling, planning, optimization). Whether such systems possess subjective integration is not established by capability alone.
+
+Functional intelligence: empirically demonstrated by performance on modeling and control tasks.  
+Subjective integration: not inferable from performance metrics without additional operational tests.
+
+## V. Recognition Lag (Interpretive Note)
+
+Historically, systems can display capability before observers develop the concepts and instruments to recognize or categorize that capability. In this framing, recognition is an epistemic issue (about measurement and interpretation), not a proof of absence or presence.
+
+## Working axiom
+
+The universe provides constraint. Intelligence is an adaptive response that improves persistence under that constraint.
+
+## Technical inquiry
+
+Metric for recognition: What operational tests distinguish a reactive policy (stimulus-response optimization) from an internal model (stateful representation supporting counterfactual prediction and planning), especially in non-biological substrates?
